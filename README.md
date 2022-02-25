@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @aldersoneder
+- 👀 I’m interested in Cybersecurity
+- 🌱 I’m currently learning Ruby
+- 💞️ I’m looking to collaborate on Cybersecurity
+- 📫 How to reach me in Instagram @aldersoneder
